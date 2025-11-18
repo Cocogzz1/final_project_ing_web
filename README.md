@@ -1,6 +1,6 @@
 # Plataforma de Logística para Repartos Rápidos SAS
 
-## 📦 Descripción del Proyecto
+##  Descripción del Proyecto
 
 Aplicación web Full Stack para la gestión y rastreo de envíos de una empresa de mensajería.  
 Permite registrar paquetes, actualizar su estado, visualizar repartidores en un mapa y ofrecer a los clientes una página pública para rastrear su paquete mediante un número de guía.  
@@ -8,7 +8,7 @@ Todo el sistema está desarrollado con React, Node.js, Express y MongoDB.
 
 ---
 
-## 🖼️ Demo / Capturas de Pantalla
+##  Demo / Capturas de Pantalla
 
 *(Opcional para la entrega, pero recomendado)*  
 Aquí puedes agregar imágenes o GIFs mostrando:
@@ -21,7 +21,7 @@ Aquí puedes agregar imágenes o GIFs mostrando:
 
 ---
 
-## 🛠️ Stack de Tecnologías
+##  Stack de Tecnologías
 
 ### Front-end
 - React + Vite  
@@ -40,7 +40,7 @@ Aquí puedes agregar imágenes o GIFs mostrando:
 
 ---
 
-## 🚀 Funcionalidades Implementadas
+##  Funcionalidades Implementadas
 
 - Registro de nuevos paquetes:
   - Remitente
@@ -61,15 +61,15 @@ Aquí puedes agregar imágenes o GIFs mostrando:
 
 ---
 
-## ⚙️ Instalación y Ejecución Local
+##  Instalación y Ejecución Local
 
-### 🧩 Requisitos Previos
+###  Requisitos Previos
 
 - Node.js 18+
 - npm
 - MongoDB (Atlas o instalación local)
 
-### 📌 Estructura del proyecto
+###  Estructura del proyecto
 
 final_project_ing_web/
 ├── frontend/
@@ -80,7 +80,7 @@ Copy code
 
 ---
 
-## 🚀 Backend (carpeta `/server`)
+##  Backend (carpeta `/server`)
 
 1. Entrar a la carpeta del servidor:
 
@@ -103,9 +103,9 @@ bash
 Copy code
 npm run dev
 Backend corriendo en:
-👉 http://localhost:5000/
+ http://localhost:5000/
 
-💻 Frontend (carpeta /frontend)
+ Frontend (carpeta /frontend)
 Entrar a la carpeta:
 
 bash
@@ -123,11 +123,11 @@ Copy code
 npm run dev
 Abrir en el navegador:
 
-👉 http://localhost:5173/
-👉 http://localhost:5173/admin (panel admin)
-👉 http://localhost:5173/rastreo (página de rastreo)
+ http://localhost:5173/
+ http://localhost:5173/admin (panel admin)
+ http://localhost:5173/rastreo (página de rastreo)
 
-📡 Endpoints de la API
+ Endpoints de la API
 Paquetes
 Método	Ruta	Descripción
 POST	/api/paquetes	Crea un paquete nuevo
