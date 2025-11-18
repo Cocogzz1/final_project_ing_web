@@ -10,8 +10,7 @@ Todo el sistema está desarrollado con React, Node.js, Express y MongoDB.
 
 ##  Demo / Capturas de Pantalla
 
-*(Opcional para la entrega, pero recomendado)*  
-Aquí puedes agregar imágenes o GIFs mostrando:
+
 
 - Panel de administración
 - Creación de paquete
